@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/graphus/Área de trabalho/algoritmos-logica/aulas-alg/FatecRL/FatecRL.csproj": {}
+  },
+  "projects": {
+    "/home/graphus/Área de trabalho/algoritmos-logica/aulas-alg/FatecRL/FatecRL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/graphus/Área de trabalho/algoritmos-logica/aulas-alg/FatecRL/FatecRL.csproj",
+        "projectName": "FatecRL",
+        "projectPath": "/home/graphus/Área de trabalho/algoritmos-logica/aulas-alg/FatecRL/FatecRL.csproj",
+        "packagesPath": "/home/graphus/.nuget/packages/",
+        "outputPath": "/home/graphus/Área de trabalho/algoritmos-logica/aulas-alg/FatecRL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/graphus/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/255/sdk/8.0.405/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

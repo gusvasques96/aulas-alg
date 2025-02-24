@@ -1,0 +1,15 @@
+/home/graphus/Área de trabalho/algoritmos-logica/aulas-alg/FatecRL/bin/Debug/net8.0/FatecRL
+/home/graphus/Área de trabalho/algoritmos-logica/aulas-alg/FatecRL/bin/Debug/net8.0/FatecRL.deps.json
+/home/graphus/Área de trabalho/algoritmos-logica/aulas-alg/FatecRL/bin/Debug/net8.0/FatecRL.runtimeconfig.json
+/home/graphus/Área de trabalho/algoritmos-logica/aulas-alg/FatecRL/bin/Debug/net8.0/FatecRL.dll
+/home/graphus/Área de trabalho/algoritmos-logica/aulas-alg/FatecRL/bin/Debug/net8.0/FatecRL.pdb
+/home/graphus/Área de trabalho/algoritmos-logica/aulas-alg/FatecRL/obj/Debug/net8.0/FatecRL.GeneratedMSBuildEditorConfig.editorconfig
+/home/graphus/Área de trabalho/algoritmos-logica/aulas-alg/FatecRL/obj/Debug/net8.0/FatecRL.AssemblyInfoInputs.cache
+/home/graphus/Área de trabalho/algoritmos-logica/aulas-alg/FatecRL/obj/Debug/net8.0/FatecRL.AssemblyInfo.cs
+/home/graphus/Área de trabalho/algoritmos-logica/aulas-alg/FatecRL/obj/Debug/net8.0/FatecRL.csproj.CoreCompileInputs.cache
+/home/graphus/Área de trabalho/algoritmos-logica/aulas-alg/FatecRL/obj/Debug/net8.0/FatecRL.sourcelink.json
+/home/graphus/Área de trabalho/algoritmos-logica/aulas-alg/FatecRL/obj/Debug/net8.0/FatecRL.dll
+/home/graphus/Área de trabalho/algoritmos-logica/aulas-alg/FatecRL/obj/Debug/net8.0/refint/FatecRL.dll
+/home/graphus/Área de trabalho/algoritmos-logica/aulas-alg/FatecRL/obj/Debug/net8.0/FatecRL.pdb
+/home/graphus/Área de trabalho/algoritmos-logica/aulas-alg/FatecRL/obj/Debug/net8.0/FatecRL.genruntimeconfig.cache
+/home/graphus/Área de trabalho/algoritmos-logica/aulas-alg/FatecRL/obj/Debug/net8.0/ref/FatecRL.dll
